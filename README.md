@@ -24,4 +24,4 @@ Captured retrospectively on July 30, 2026. Not a continuous time series.
 - No causal claims are supported by this sample
 
 ## Researcher
-Rusi — Web3 Growth Data Analyst
+Jorge Luis Abreu (qvaloo0x) — Web3 Growth Data Analyst
